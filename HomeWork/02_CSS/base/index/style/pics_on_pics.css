@@ -1,0 +1,56 @@
+
+.Nine_of_hearts_p{
+
+    background-image:url(../img/cards.7e0a18f0.png);
+    display: inline-block;
+    background-position: -430px -1390px;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 80px;
+    
+    
+    
+}
+.Queen_of_hearts_p{
+
+    background-image:url(../img/cards.7e0a18f0.png);
+    display: inline-block;
+    background-position: -430px -1790px;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 80px;
+    
+}
+
+.Nine_of_dice_p{
+
+    background-image:url(../img/cards.7e0a18f0.png);
+    display: inline-block;
+    background-position: -285px -1391px;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 80px;
+    
+}
+.Ace_of_clubs_p{
+
+    background-image:url(../img/cards.7e0a18f0.png);
+    display: inline-block;
+    background-position: -143px -2189px;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 80px;
+    
+}
+.Joker_p{
+
+    background-image:url(../img/cards.7e0a18f0.png);
+    display: inline-block;
+    background-position: -285px -2387px;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 80px;
+    
+}
+
+   

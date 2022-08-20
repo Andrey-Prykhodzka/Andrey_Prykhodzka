@@ -1,0 +1,11 @@
+.High_list{
+    
+    list-style: upper-roman;
+    font-weight: 800;
+    font-size: 20;
+}
+.Low_list{
+    list-style: lower-roman;
+    font-weight: 400;
+    font-size: 20;
+}

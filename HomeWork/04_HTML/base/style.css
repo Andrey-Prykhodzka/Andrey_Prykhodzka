@@ -1,0 +1,12 @@
+.rightlogo{
+    float:  right;
+}
+.back_button{
+    text-align: left;
+}
+.forward_button{
+    text-align: right;
+}
+.home_button{
+    text-align: center;
+}
